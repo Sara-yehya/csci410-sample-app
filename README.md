@@ -1,17 +1,19 @@
-# csci410_sample_app
+# CSCI410 Sample App
 
-A new Flutter project.
+A small sample Flutter app created to set up my GitHub account for CSCI410 Project 1. It is not my final project.
 
-## Getting Started
+## What it does
 
-This project is a starting point for a Flutter application.
+- Shows one screen with a text field and a button
+- Greets the user by name
+- Shows a message if the name is empty
 
-A few resources to get you started if this is your first Flutter project:
+## Run it
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+1. Install Flutter: https://docs.flutter.dev/get-started/install
+2. Run `flutter pub get`
+3. Run `flutter run`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author
+
+Sara Yehya, CSCI410 Mobile Application
